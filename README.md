@@ -87,7 +87,7 @@
         <img src="https://lodash.com/assets/img/lodash.svg" alt="Lodash" width="40" height="40"/>
     </a>
     <a href="https://animejs.com/" target="_blank" rel="noreferrer">
-        <img src="https://animejs.com/img/animejs.svg" alt="Anime.js" width="40" height="40"/>
+        <img src="https://www.mrwpress.com/wp-content/uploads/2022/08/animejs.jpg" alt="Anime.js" width="40" height="40"/>
     </a>
     <a href="https://www.json.org/" target="_blank" rel="noreferrer">
         <img src="https://www.json.org/json.svg" alt="JSON" width="40" height="40"/>
