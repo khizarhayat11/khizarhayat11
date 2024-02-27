@@ -57,7 +57,7 @@
         <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="40" height="40"/>
     </a>
     <a href="https://apexcharts.com" target="_blank" rel="noreferrer">
-        <img src="https://apexcharts.com/media/favicon.png" alt="ApexCharts" width="40" height="40"/>
+        <img src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" alt="ApexCharts" width="40" height="40"/>
     </a>
     <a href="https://www.highcharts.com" target="_blank" rel="noreferrer">
         <img src="https://www.highcharts.com/favicon.ico" alt="Highcharts" width="40" height="40"/>
