@@ -60,7 +60,7 @@
         <img src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" alt="ApexCharts" width="40" height="40"/>
     </a>
     <a href="https://www.highcharts.com" target="_blank" rel="noreferrer">
-        <img src="https://www.highcharts.com/favicon.ico" alt="Highcharts" width="40" height="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/highcharts-icon-1024x975-zhmlnjxt.png" alt="Highcharts" width="40" height="40"/>
     </a>
 </p>
 
