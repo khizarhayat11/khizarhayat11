@@ -51,7 +51,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
     </a>
     <a href="https://bootstrap-vue.org" target="_blank" rel="noreferrer">
-        <img src="https://bootstrap-vue.org/_nuxt/icons/icon.4f7376.png" alt="Vue Bootstrap" width="40" height="40"/>
+        <img src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png" alt="Vue Bootstrap" width="40" height="40"/>
     </a>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/img/favicon/favicon-32x32.png" alt="Chart.js" width="40" height="40"/>
