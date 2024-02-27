@@ -33,7 +33,7 @@
         <img src="https://www.figma.com/favicon.ico" alt="Figma" width="40" height="40"/>
     </a>
     <a href="https://leafletjs.com" target="_blank" rel="noreferrer">
-        <img src="https://leafletjs.com/docs/images/favicon.png" alt="Leaflet" width="40" height="40"/>
+        <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
     </a>
 </p>
 
