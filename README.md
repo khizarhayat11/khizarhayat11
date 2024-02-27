@@ -21,7 +21,7 @@
         <img src="https://seeklogo.com/images/E/element-ui-logo-A640D7E503-seeklogo.com.png" alt="Element UI" width="40" height="40"/>
     </a>
     <a href="https://nuxtjs.org" target="_blank" rel="noreferrer">
-        <img src="https://s3-alpha.figma.com/profile/bbc5586a-c675-4ff4-90d0-d56b4d075671"  alt="Nuxt.js" width="40" height="40"/>
+        <img src="https://s3-alpha.figma.com/profile/bbc5586a-c675-4ff4-90d0-d56b4d075671" alt="Nuxt.js" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -35,7 +35,7 @@
     <a href="https://leafletjs.com" target="_blank" rel="noreferrer">
         <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
     </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=256" alt="Tailwind CSS" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
