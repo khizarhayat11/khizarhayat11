@@ -44,9 +44,6 @@
     <a href="https://nextjs.org" target="_blank" rel="noreferrer">
         <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="40" height="40"/>
     </a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-    </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
     </a>
