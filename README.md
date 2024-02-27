@@ -99,7 +99,7 @@
         <img src="https://avatars.githubusercontent.com/u/24946286?s=280&v=4" alt="Glimmer" width="40" height="40"/>
     </a>
     <a href="https://sarcadass.github.io/granim.js/" target="_blank" rel="noreferrer">
-        <img src="https://sarcadass.github.io/granim.js/images/granim-logo.svg" alt="Granim.js" width="40" height="40"/>
+        <img src="https://sarcadass.github.io/granim.js/assets/img/social-image.png" alt="Granim.js" width="40" height="40"/>
     </a>
     <a href="https://alvarotrigo.com/fullPage/" target="_blank" rel="noreferrer">
         <img src="https://alvarotrigo.com/fullPage/imgs/logo.png" alt="fullPage.js" width="40" height="40"/>
