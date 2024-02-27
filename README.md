@@ -105,7 +105,7 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59l2eMoFMIipmHG3uND3FEBa2Lj5bZSMTI5mFvwzSfA&s" alt="fullPage.js" width="40" height="40"/>
     </a>
     <a href="https://parsleyjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://parsleyjs.org/assets/images/logo.svg" alt="Parsley" width="40" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-8MLmzpLWejv6rKg17kqJZ_Usy0Elh_3YcCSt3yClA&s" alt="Parsley" width="40" height="40"/>
     </a>
     <a href="https://popper.js.org/" target="_blank" rel="noreferrer">
         <img src="https://popper.js.org/popover-icons/assets/img/pp-64-white.png" alt="Popper.js" width="40" height="40"/>
