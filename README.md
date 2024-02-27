@@ -36,7 +36,7 @@
         <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
     </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-        <img src="https://tailwindcss.com/favicon-32x32.png" alt="Tailwind CSS" width="40" height="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=256" alt="Tailwind CSS" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
