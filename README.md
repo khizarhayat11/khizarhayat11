@@ -62,6 +62,54 @@
     <a href="https://www.highcharts.com" target="_blank" rel="noreferrer">
         <img src="https://static-00.iconduck.com/assets.00/highcharts-icon-1024x975-zhmlnjxt.png" alt="Highcharts" width="40" height="40"/>
     </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
+    </a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+    </a>
+    <a href="https://elementor.com" target="_blank" rel="noreferrer">
+        <img src="https://www.elementor.com/assets/1.svg" alt="Elementor" width="40" height="40"/>
+    </a>
+    <a href="https://www.elegantthemes.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/04/divi-icon.png" alt="Divi" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
+    </a>
+    <a href="https://lodash.com/" target="_blank" rel="noreferrer">
+        <img src="https://lodash.com/assets/img/lodash.svg" alt="Lodash" width="40" height="40"/>
+    </a>
+    <a href="https://animejs.com/" target="_blank" rel="noreferrer">
+        <img src="https://animejs.com/img/animejs.svg" alt="Anime.js" width="40" height="40"/>
+    </a>
+    <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.json.org/json.svg" alt="JSON" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+    </a>
+    <a href="https://glimmerjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/12507140?s=280&v=4" alt="Glimmer" width="40" height="40"/>
+    </a>
+    <a href="https://sarcadass.github.io/granim.js/" target="_blank" rel="noreferrer">
+        <img src="https://sarcadass.github.io/granim.js/images/granim-logo.svg" alt="Granim.js" width="40" height="40"/>
+    </a>
+    <a href="https://alvarotrigo.com/fullPage/" target="_blank" rel="noreferrer">
+        <img src="https://alvarotrigo.com/fullPage/imgs/logo.png" alt="fullPage.js" width="40" height="40"/>
+    </a>
+    <a href="https://parsleyjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://parsleyjs.org/assets/images/logo.svg" alt="Parsley" width="40" height="40"/>
+    </a>
+    <a href="https://popper.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://popper.js.org/popover-icons/assets/img/pp-64-white.png" alt="Popper.js" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khizarhayat11&show_icons=true&locale=en&layout=compact" alt="khizarhayat11" /></p>
