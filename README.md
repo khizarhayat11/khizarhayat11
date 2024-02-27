@@ -27,7 +27,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+        <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com" target="_blank" rel="noreferrer">
         <img src="https://www.figma.com/favicon.ico" alt="Figma" width="40" height="40"/>
