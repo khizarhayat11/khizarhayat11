@@ -21,7 +21,7 @@
         <img src="https://element.eleme.io/images/logo.svg" alt="Element UI" width="40" height="40"/>
     </a>
     <a href="https://nuxtjs.org" target="_blank" rel="noreferrer">
-        <img src="https://nuxtjs.org/favicon.ico" alt="Nuxt.js" width="40" height="40"/>
+        <img src="https://s3-alpha.figma.com/profile/bbc5586a-c675-4ff4-90d0-d56b4d075671"  alt="Nuxt.js" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
