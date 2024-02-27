@@ -108,7 +108,7 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-8MLmzpLWejv6rKg17kqJZ_Usy0Elh_3YcCSt3yClA&s" alt="Parsley" width="40" height="40"/>
     </a>
     <a href="https://popper.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://popper.js.org/popover-icons/assets/img/pp-64-white.png" alt="Popper.js" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/RobinCK/vue-popper@4431e4cc/doc/logo.png" alt="Popper.js" width="40" height="40"/>
     </a>
 </p>
 
