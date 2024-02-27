@@ -75,7 +75,7 @@
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor" width="40" height="40"/>
     </a>
     <a href="https://www.elegantthemes.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/04/divi-icon.png" alt="Divi" width="40" height="40"/>
+        <img src="https://cryptologos.cc/logos/divi-divi-logo.png" alt="Divi" width="40" height="40"/>
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
