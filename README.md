@@ -54,7 +54,7 @@
         <img src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png" alt="Vue Bootstrap" width="40" height="40"/>
     </a>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/img/favicon/favicon-32x32.png" alt="Chart.js" width="40" height="40"/>
+        <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="40" height="40"/>
     </a>
     <a href="https://apexcharts.com" target="_blank" rel="noreferrer">
         <img src="https://apexcharts.com/media/favicon.png" alt="ApexCharts" width="40" height="40"/>
