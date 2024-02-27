@@ -90,7 +90,7 @@
         <img src="https://www.mrwpress.com/wp-content/uploads/2022/08/animejs.jpg" alt="Anime.js" width="40" height="40"/>
     </a>
     <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.json.org/json.svg" alt="JSON" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" alt="JSON" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
