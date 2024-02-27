@@ -35,6 +35,33 @@
     <a href="https://leafletjs.com" target="_blank" rel="noreferrer">
         <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
     </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+        <img src="https://tailwindcss.com/favicon-32x32.png" alt="Tailwind CSS" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+        <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+    </a>
+    <a href="https://bootstrap-vue.org" target="_blank" rel="noreferrer">
+        <img src="https://bootstrap-vue.org/_nuxt/icons/icon.4f7376.png" alt="Vue Bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.chartjs.org/img/favicon/favicon-32x32.png" alt="Chart.js" width="40" height="40"/>
+    </a>
+    <a href="https://apexcharts.com" target="_blank" rel="noreferrer">
+        <img src="https://apexcharts.com/media/favicon.png" alt="ApexCharts" width="40" height="40"/>
+    </a>
+    <a href="https://www.highcharts.com" target="_blank" rel="noreferrer">
+        <img src="https://www.highcharts.com/favicon.ico" alt="Highcharts" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khizarhayat11&show_icons=true&locale=en&layout=compact" alt="khizarhayat11" /></p>
