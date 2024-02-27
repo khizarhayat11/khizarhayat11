@@ -30,7 +30,7 @@
         <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-        <img src="https://www.figma.com/favicon.ico" alt="Figma" width="40" height="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=256" alt="Figma" width="40" height="40"/>
     </a>
     <a href="https://leafletjs.com" target="_blank" rel="noreferrer">
         <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
