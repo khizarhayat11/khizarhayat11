@@ -96,7 +96,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
     </a>
     <a href="https://glimmerjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/12507140?s=280&v=4" alt="Glimmer" width="40" height="40"/>
+        <img src="https://www.commentcoder.com/static/9052ca1576dd7f164a47ef33ff5a7c1d/b17f8/glimmer-js.jpg" alt="Glimmer" width="40" height="40"/>
     </a>
     <a href="https://sarcadass.github.io/granim.js/" target="_blank" rel="noreferrer">
         <img src="https://sarcadass.github.io/granim.js/images/granim-logo.svg" alt="Granim.js" width="40" height="40"/>
