@@ -102,7 +102,7 @@
         <img src="https://sarcadass.github.io/granim.js/assets/img/social-image.png" alt="Granim.js" width="40" height="40"/>
     </a>
     <a href="https://alvarotrigo.com/fullPage/" target="_blank" rel="noreferrer">
-        <img src="https://alvarotrigo.com/fullPage/imgs/logo.png" alt="fullPage.js" width="40" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59l2eMoFMIipmHG3uND3FEBa2Lj5bZSMTI5mFvwzSfA&s" alt="fullPage.js" width="40" height="40"/>
     </a>
     <a href="https://parsleyjs.org/" target="_blank" rel="noreferrer">
         <img src="https://parsleyjs.org/assets/images/logo.svg" alt="Parsley" width="40" height="40"/>
