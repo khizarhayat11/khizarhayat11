@@ -72,7 +72,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
     </a>
     <a href="https://elementor.com" target="_blank" rel="noreferrer">
-        <img src="https://www.elementor.com/assets/1.svg" alt="Elementor" width="40" height="40"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor" width="40" height="40"/>
     </a>
     <a href="https://www.elegantthemes.com/" target="_blank" rel="noreferrer">
         <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/04/divi-icon.png" alt="Divi" width="40" height="40"/>
