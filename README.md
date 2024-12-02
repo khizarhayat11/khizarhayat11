@@ -109,7 +109,6 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khizarhayat11&show_icons=true&locale=en&layout=compact" alt="khizarhayat11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khizarhayat11&show_icons=true&locale=en" alt="khizarhayat11" /> </p>
 
