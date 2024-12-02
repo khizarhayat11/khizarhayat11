@@ -112,5 +112,5 @@
 <div style="display:flex; justify-content: space-between;"> 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=khizarhayat11&show_icons=true&locale=en" alt="khizarhayat11" /> </p>
 
-<p style="margin-top: 38px;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khizarhayat11&" alt="khizarhayat11" /></p>
+<p><img align="left" style="margin-top: 38px;" src="https://github-readme-streak-stats.herokuapp.com/?user=khizarhayat11&" alt="khizarhayat11" /></p>
 </div>
