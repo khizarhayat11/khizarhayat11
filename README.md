@@ -109,6 +109,4 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=khizarhayat11&show_icons=true&locale=en" alt="khizarhayat11" /> </p>
-
 <p><img align="left"  width="100%" style="margin-top: 38px;" src="https://github-readme-streak-stats.herokuapp.com/?user=khizarhayat11&" alt="khizarhayat11" /></p>
