@@ -1,112 +1,219 @@
-<h1 align="left">Hi 👋, I'm Makhdoom Muhammad Khizar Hayat</h1>
-<h3 align="left">A passionate front-end developer from Pakistan.</h3>
+<!-- 🔥 HERO SECTION (3D ANIMATION STYLE) -->
+<div align="center" style="perspective: 1200px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khizarhayat11&label=Profile%20views&color=0e75b6&style=flat" alt="khizarhayat11" /> </p>
+<div style="
+  display:inline-block;
+  padding:40px 60px;
+  border-radius:25px;
+  background: linear-gradient(135deg,#0f0c29,#302b63,#24243e);
+  box-shadow:0 30px 70px rgba(0,0,0,0.6);
+  transform: rotateX(10deg) rotateY(-10deg);
+  transition:0.6s;
+"
+onmouseover="this.style.transform='rotateX(0deg) rotateY(0deg) scale(1.05)'"
+onmouseout="this.style.transform='rotateX(10deg) rotateY(-10deg)'"
+>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khizarhayat11" alt="khizarhayat11" /></a> </p>
+<h1 style="
+  font-size:34px;
+  background:linear-gradient(90deg,#00DBDE,#FC00FF);
+  -webkit-background-clip:text;
+  color:transparent;
+">
+Hi 👋, I'm Makhdoom Muhammad Khizar Hayat
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 style="color:#cfcfcf;">
+Full Stack Developer | Vue | React | Laravel | AI Systems Builder
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00DBDE&center=true&vCenter=true&width=650&lines=Frontend+%7C+Backend+%7C+AI+Workflows;Vue+%7C+Nuxt+%7C+React+%7C+Next.js;Laravel+%7C+Supabase+%7C+Convex+%7C+Sanity.io;Automations+%7C+RAG+Systems+%7C+AI+Agents" />
+
+</div>
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 👨‍💻 ABOUT ME
+
+<div style="
+  margin-top:30px;
+  padding:20px;
+  border-radius:15px;
+  background:#0f0f1a;
+  color:#eaeaea;
+  box-shadow:0 15px 40px rgba(0,0,0,0.4);
+">
+
+💻 Full Stack Developer building scalable web applications  
+⚡ Expert in frontend, backend & AI workflows  
+🧠 Passionate about automation, CMS systems & architecture  
+🌍 Love crafting modern UI/UX experiences  
+
+</div>
+
+---
+
+## 🚀 FRONTEND STACK
+
 <p align="left">
-    <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-        <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://element.eleme.io" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/E/element-ui-logo-A640D7E503-seeklogo.com.png" alt="Element UI" width="40" height="40"/>
-    </a>
-    <a href="https://nuxtjs.org" target="_blank" rel="noreferrer">
-        <img src="https://s3-alpha.figma.com/profile/bbc5586a-c675-4ff4-90d0-d56b4d075671" alt="Nuxt.js" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3521426-2944870.png?f=webp&w=256" alt="Figma" width="40" height="40"/>
-    </a>
-    <a href="https://leafletjs.com" target="_blank" rel="noreferrer">
-        <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=256" alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-        <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
-    </a>
-    <a href="https://bootstrap-vue.org" target="_blank" rel="noreferrer">
-        <img src="https://bootstrap-vue.org/_nuxt/icons/icon_512x512.67aef2.png" alt="Vue Bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="40" height="40"/>
-    </a>
-    <a href="https://apexcharts.com" target="_blank" rel="noreferrer">
-        <img src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" alt="ApexCharts" width="40" height="40"/>
-    </a>
-    <a href="https://www.highcharts.com" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/highcharts-icon-1024x975-zhmlnjxt.png" alt="Highcharts" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
-    </a>
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
-    </a>
-    <a href="https://elementor.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor" width="40" height="40"/>
-    </a>
-    <a href="https://www.elegantthemes.com/" target="_blank" rel="noreferrer">
-        <img src="https://cryptologos.cc/logos/divi-divi-logo.png" alt="Divi" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    </a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
-    </a>
-    <a href="https://lodash.com/" target="_blank" rel="noreferrer">
-        <img src="https://lodash.com/assets/img/lodash.svg" alt="Lodash" width="40" height="40"/>
-    </a>
-    <a href="https://animejs.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.mrwpress.com/wp-content/uploads/2022/08/animejs.jpg" alt="Anime.js" width="40" height="40"/>
-    </a>
-    <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" alt="JSON" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-    </a>
-    <a href="https://glimmerjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/24946286?s=280&v=4" alt="Glimmer" width="40" height="40"/>
-    </a>
-    <a href="https://sarcadass.github.io/granim.js/" target="_blank" rel="noreferrer">
-        <img src="https://sarcadass.github.io/granim.js/assets/img/social-image.png" alt="Granim.js" width="40" height="40"/>
-    </a>
-    <a href="https://alvarotrigo.com/fullPage/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59l2eMoFMIipmHG3uND3FEBa2Lj5bZSMTI5mFvwzSfA&s" alt="fullPage.js" width="40" height="40"/>
-    </a>
-    <a href="https://parsleyjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-8MLmzpLWejv6rKg17kqJZ_Usy0Elh_3YcCSt3yClA&s" alt="Parsley" width="40" height="40"/>
-    </a>
-    <a href="https://popper.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/RobinCK/vue-popper@4431e4cc/doc/logo.png" alt="Popper.js" width="40" height="40"/>
-    </a>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,js,ts,html,css,tailwind" />
 </p>
 
-<p><img align="left"  width="100%" style="margin-top: 38px;" src="https://github-readme-streak-stats.herokuapp.com/?user=khizarhayat11&" alt="khizarhayat11" /></p>
+---
+
+## ⚙️ BACKEND STACK
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,supabase" />
+</p>
+
+<p align="left">
+🧩 Convex (Realtime Backend / Serverless DB)<br>
+🧠 Sanity.io (Headless CMS / Content Platform)<br>
+⚡ Laravel (PHP Framework)<br>
+☁️ Supabase (Auth + DB + Storage + Realtime)
+</p>
+
+---
+
+## 🧠 LANGUAGES
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript" />
+</p>
+
+---
+
+## 💾 DATABASES
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p>
+Airtable • Qdrant • Convex DB • Postgres • MySQL • Sanity Content Lake
+</p>
+
+---
+
+## 🤖 AI & AUTOMATION
+
+<p>
+<img src="https://img.shields.io/badge/OpenClaw-AI-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-LLM-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-Workflows-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zapier-Automation-yellow?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠 TOOLS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git" />
+</p>
+
+Linear • Jira • GitHub Projects • CI/CD
+
+---
+
+## 🧪 TESTING
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cypress,jest" />
+</p>
+
+---
+
+## 🎨 LIBRARIES & FRAMEWORKS
+
+Leaflet • Mapbox • Three.js • ApexCharts • Chart.js • Highcharts  
+TailwindCSS • PrimeVue • Element UI • Clerk • NextAuth • GSAP 
+
+---
+
+## 🏆 RANKING
+
+<p align="center">
+    
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fkhizarhayat11&style=for-the-badge" />
+</a>
+    
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khizarhayat11&theme=tokyonight"
+  style="width: 100%; max-width: 900px; border-radius: 12px;"
+/>
+</p>
+
+---
+
+## 📊 GitHub Streak
+
+<!-- STREAK CARD -->
+<p align="center">
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=khizarhayat11&theme=tokyonight"
+  style="width: 100%; max-width: 900px; border-radius: 12px;"
+/>
+
+</p>
+
+---
+
+## 🌌 DEVELOPMENT ACTIVITY
+
+<p align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=khizarhayat11&bg_color=0d1117&color=00ffff&line=ff00ff&point=00ffff&area=true&hide_border=true"
+  width="100%"
+/>
+
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/khizarhayat11">
+<img src="https://img.shields.io/badge/GitHub-FullStack%20Dev-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/makhdoom-khizar-hayat">
+<img src="https://img.shields.io/badge/LinkedIn-Makhdoom%20Khizar%20Hayat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:makhdoomkhizar1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## ✨ FINAL QUOTE
+
+<div align="center">
+
+> “I build scalable systems, modern UI, and AI-powered workflows with clean architecture.”
+
+</div>
