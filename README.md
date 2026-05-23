@@ -200,11 +200,15 @@ TailwindCSS • PrimeVue • Element UI • Clerk • NextAuth • GSAP
 ## 🏆 RANKING
 
 <p align="center">
-    
-<a href="https://rankistan.dev">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fkhizarhayat11&style=for-the-badge" />
-</a>
-    
+  <img src="https://img.shields.io/badge/🇵🇰%20Pakistan-Top%20238-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Islamabad-Top%2026-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-Contributor-success?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <a href="https://rankistan.dev">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fkhizarhayat11&style=for-the-badge" />
+  </a>
 </p>
 
 
