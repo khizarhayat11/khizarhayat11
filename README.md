@@ -27,13 +27,72 @@ Hi 👋, I'm Makhdoom Muhammad Khizar Hayat
 Full Stack Developer | Vue | React | Laravel | AI Systems Builder
 </h3>
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00DBDE&center=true&vCenter=true&width=650&lines=Frontend+%7C+Backend+%7C+AI+Workflows;Vue+%7C+Nuxt+%7C+React+%7C+Next.js;Laravel+%7C+Supabase+%7C+Convex+%7C+Sanity.io;Automations+%7C+RAG+Systems+%7C+AI+Agents" />
 
 </div>
+
+
 </div>
+
+---
+
+
+<!-- 👀 PROFILE VIEWS -->
+
+<div align="center">
+
+<div style="
+  display: inline-block;
+  padding: 25px 40px;
+  border-radius: 20px;
+  background: linear-gradient(135deg,#0f0c29,#302b63,#24243e);
+  box-shadow: 0 0 25px rgba(255,0,255,0.35);
+">
+
+<!-- 👀 PROFILE VIEWS -->
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=khizarhayat11&label=PROFILE%20VIEWS&color=ff00ff&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/khizarhayat11?label=FOLLOWERS&style=for-the-badge&color=00ffff"/>
+
+<img src="https://img.shields.io/github/stars/khizarhayat11?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ff00ff"/>
+
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fkhizarhayat11&style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/COMMITS-2000%2B-00ffff?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-ff00ff?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
+---
+
+
+
+<!-- 🏆 GITHUB TROPHIES -->
+
+## 🏆 GITHUB TROPHIES
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=khizarhayat11&theme=algolia&no-frame=true&row=1&column=6"
+    width="100%"
+  />
 </p>
 
 ---
