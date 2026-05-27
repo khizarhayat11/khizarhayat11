@@ -89,11 +89,9 @@ Full Stack Developer | Vue | React | Laravel | AI Systems Builder
 ## 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=khizarhayat11&theme=algolia&no-frame=true&row=1&column=6"
-    width="100%"
-  />
+  <img src="https://github-trophies.vercel.app/?username=khizarhayat11&theme=radical&no-frame=true&no-bg=true" />
 </p>
+
 
 ---
 
